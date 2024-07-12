@@ -1,1 +1,3 @@
-
+payload:
+  - 'a.com'
+  - '+.a.com'
