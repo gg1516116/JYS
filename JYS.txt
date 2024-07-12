@@ -1,5 +1,8 @@
 payload:
  - 'binance.com'
+ - 'bin.bnbstatic.com'
+ - 'stream.binance.com'
+ - 'nbstream.binance.com'
  - 'okx.com'
  - 'bitget.com'
  - '+.binance.com'
