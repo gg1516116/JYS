@@ -1,5 +1,5 @@
 payload:
-  - 'binace.com'
-  - '+.binace.com'
+  - 'binance.com'
+  - '+.binance.com'
   - 'okx.com'
   - '+.okx.com'
