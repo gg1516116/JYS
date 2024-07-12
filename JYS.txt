@@ -3,3 +3,5 @@ payload:
   - '+.binance.com'
   - 'okx.com'
   - '+.okx.com'
+  - 'bitget.com'
+  - '+.bitget.com'
