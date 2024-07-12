@@ -1,7 +1,7 @@
 payload:
-  - 'binance.com'
-  - '+.binance.com'
-  - 'okx.com'
-  - '+.okx.com'
-  - 'bitget.com'
-  - '+.bitget.com'
+- 'binance.com'
+- '+.binance.com'
+- 'okx.com'
+- '+.okx.com'
+- 'bitget.com'
+- '+.bitget.com'
